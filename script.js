@@ -36,7 +36,7 @@ const perguntas = [
         alternativas: [
             {
                 texto: "Com certeza, isso pode ser muito bom.",
-                afirmacao: "Se acontecer, no fututo robos seriam mandados para guerras ou então pederiam agir como policiais, assim nãoprecisando colocar tantas pessoas em risco."
+                afirmacao: "Se acontecer, no fututo robos seriam mandados para guerras ou então pederiam agir como policiais, assim não precisando colocar tantas pessoas em risco."
             },
             {
                 texto: "Talvez.",
