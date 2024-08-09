@@ -32,7 +32,7 @@ const perguntas = [
         ]
     },
     {
-        enunciado: "Se chegar a acontecer, você acredita que uma inteligência artificial possa substituir completamenteos soldados humanos no futuro?",
+        enunciado: "Se chegar a acontecer, você acredita que uma inteligência artificial possa substituir completamente os soldados humanos no futuro?",
         alternativas: [
             {
                 texto: "Com certeza, isso pode ser muito bom.",
